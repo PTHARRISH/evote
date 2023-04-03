@@ -1,8 +1,9 @@
 # evoting system using python and flask framework
 
-1. Introduction
-	This idea proposes an online voting system with Aadhar for Indian elections.The proposed model has a greater security in the sense that voter high security password is confirmed before the vote is accepted in the main database of Election Commission of India. The model's added feature allows the voter to verify that the right candidate or party received their vote.The counting of the votes will be done automatically under the proposed approach, saving a significant amount of time and allowing the Election Commissioner of India to declare the results quickly.
 
+1. Introduction
+        This idea proposes an online voting system with Aadhar for Indian elections.The proposed model has a greater security in the sense that voter high security password is confirmed before the vote is accepted in the main database of Election Commission of India. The model's added feature allows the voter to verify that the right candidate or party received their vote.The counting of the votes will be done automatically under the proposed approach, saving a significant amount of time and allowing the Election Commissioner of India to declare the results quickly.
+        
 1.1 About the project
 	The objective of the evote webappliction is to provide better information for the users of this system easily they can vote from anywhere without facing any difficulty.
 	
